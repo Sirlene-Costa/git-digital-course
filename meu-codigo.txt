@@ -1,4 +1,11 @@
 Olá mundo!
 Hello world!
 
+var number = 32
+print(number)
+
 print(Olá mundo!)
+
+uma nova linha 
+
+
