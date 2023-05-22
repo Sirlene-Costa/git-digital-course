@@ -1,0 +1,4 @@
+Digita a temperatura atual em são paulo
+Digite a temperatura no Rio de Janeiro
+
+
