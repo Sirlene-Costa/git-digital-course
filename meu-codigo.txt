@@ -2,6 +2,7 @@ Olá mundo!
 Hello world!
 
 var number = 32
+var number = 21
 print(number)
 
 print(Olá mundo!)
